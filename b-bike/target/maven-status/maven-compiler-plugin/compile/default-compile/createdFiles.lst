@@ -1,0 +1,12 @@
+BikeRental\RentalCancelled.class
+BikeRental\BikeUpdated.class
+BikeRental\AbstractEvent$1.class
+BikeRental\config\kafka\KafkaProcessor.class
+BikeRental\BikeRegistered.class
+BikeRental\BikeDeleted.class
+BikeRental\PolicyHandler.class
+BikeRental\Bike.class
+BikeRental\AbstractEvent.class
+BikeRental\BikeController.class
+BikeRental\BikeApplication.class
+BikeRental\BikeRepository.class

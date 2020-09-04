@@ -1,0 +1,11 @@
+BikeRental\PolicyHandler.class
+BikeRental\UserUpdated.class
+BikeRental\UserDeleted.class
+BikeRental\User.class
+BikeRental\UserRepository.class
+BikeRental\UserController.class
+BikeRental\AbstractEvent.class
+BikeRental\UserRegistered.class
+BikeRental\AbstractEvent$1.class
+BikeRental\config\kafka\KafkaProcessor.class
+BikeRental\UserApplication.class
