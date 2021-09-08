@@ -237,7 +237,7 @@ LoadBalancer type으로 서비스
 ### 서킷 브레이커 테스트
 Bike 프로젝트의 사이드카 적용
 
--  서킷 브레이커 적용 - hysterix 적용
+-  서킷 브레이커 적용 - hystrix 적용
 ![히스테릭스](https://user-images.githubusercontent.com/25577890/91829110-fbed8000-ec7b-11ea-891c-0d625d5ac85b.png)
 
 -  적용 후 Siege 시, 임계치 초과시 500에러 리턴 - 
